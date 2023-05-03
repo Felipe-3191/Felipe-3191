@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center¨>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=437D63&center=true&width=435&lines=Hi%2C+I'm+Felipe+Santos+%F0%9F%91%8B;Fullstack+Developer+;DevOps+Enthusiast)](https://git.io/typing-svg)
+</h1>
 
 <!--
 **Felipe-3191/Felipe-3191** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
